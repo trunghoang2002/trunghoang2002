@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**kasz-ai/kasz-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**trunghoang2002/trunghoang2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
